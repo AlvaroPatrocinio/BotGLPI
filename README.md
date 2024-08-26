@@ -2,8 +2,7 @@
 
 Bem-vindos ao repositório do BOT GLPI
 
-Bot simples de notificação para abertura de chamados do sistema GLPI que implementei no meu atual emprego.
-
+Bot simples de notificação para abertura de chamados no sistema GLPI que implementei no Hiper Marques Center.
 Esse repositório foi incrementado.
 
 - Conceitos de Python
